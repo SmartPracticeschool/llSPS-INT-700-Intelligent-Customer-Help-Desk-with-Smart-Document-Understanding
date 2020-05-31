@@ -2,7 +2,7 @@
 
 Project Title : Intelligent Customer Help Desk with Smart Document Understanding
 
-Introduction: This project is built with the help of IBM Watson Assistant, Watson Discovery, Cloud Function and Node Red app of IBM Cloud. I have made this project with regard to the partial fulfilment of Smartinternz Internship Program at Smartbridge.
+Introduction: This project is built with the help of IBM Watson Assistant, Watson Discovery, Cloud Function and Node-Red app of IBM Cloud. I have made this project with regard to the partial fulfilment of SmartInternz Internship Program at Smartbridge.
 
 Skills Required: Python,IBM Cloud,IBM Watson
 

@@ -12,3 +12,7 @@ Project Description : The typical customer care chatbot can answer simple questi
 In this project, there will be another option. If the customer question is about the operation of a device, the application shall pass the question onto Watson Discovery Service, which has been pre-loaded with the device’s owners manual. So now, instead of “Would you like to speak to a customer representative?” we can return relevant sections of the owners manual to help solve our customers’ problems.
 
 To take it a step further, the project shall use the Smart Document Understanding feature of Watson Discovery to train it on what text in the owners manual is important and what is not. This will improve the answers returned from the queries.
+
+Youtube video link - https://youtu.be/TEBVeXSTZH8
+
+Web UI link - https://node-red-tfgmw.eu-gb.mybluemix.net/ui/
